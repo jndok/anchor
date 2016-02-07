@@ -6,6 +6,8 @@ A serious `README` will come soon, for now _libanchor_ is still in a primitive s
 
 I have to give a big shoutout to [qwertyoruiop]("https://twitter.com/qwertyoruiop"), who originally suggested this hooking approach a long time ago, which only recently I have experimented with.
 
+This is my last function hooking-related project ever, I swear :P
+
 ## Usage
 Here are the basic APIs:
 
